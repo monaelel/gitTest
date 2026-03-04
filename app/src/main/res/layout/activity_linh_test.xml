@@ -10,6 +10,7 @@
         android:layout_height="wrap_content"
         android:text="login"
         android:gravity="center"
+        android:textColor="@color/black"
         />
 
 </LinearLayout>
